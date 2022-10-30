@@ -52,7 +52,7 @@ $output = [
                 <input type="checkbox" id="" name="categories9" value="義大利麵">
                 <label for="categories9">義大利麵</label><br>
                 <input type="checkbox" id="" name="categories10" value="麵包">
-                <label for="categories10">麵包</label><br>
+                <label for="categories10">我不是麵包我是測試</label><br>
             </div>
             <div class="col-12">
                 <button type="submit" class="btn btn-info">搜尋</button>
